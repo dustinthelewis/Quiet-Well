@@ -1,0 +1,17 @@
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.dll
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.pdb
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.xml
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\Duality.dll
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\OpenTK.dll
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\FarseerDuality.dll
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\NVorbis.dll
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\Duality.pdb
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\Duality.xml
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\OpenTK.pdb
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\OpenTK.xml
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\FarseerDuality.pdb
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\FarseerDuality.xml
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\bin\Debug\NVorbis.xml
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\obj\Debug\GamePlugin.core.dll
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\obj\Debug\GamePlugin.core.pdb
+W:\Xaron\Dropbox\Code\QuietWell\Source\Code\CorePlugin\obj\Debug\CorePlugin.csprojResolveAssemblyReference.cache
